@@ -32,4 +32,4 @@ Sebagai bentuk apresiasi, saya diundang ke kantor *Kominfo Kabupaten Bekasi* unt
 
 - ## Bukti Undangan
 - Sebagai bukti keaslian,berikut screenshot undangan resmi dari **Kominfo Kabupaten Bekasi**
-- ![Undangan Kominfo](./Pictures/undangan-kominfo.png)
+- ![Undangan Kominfo](./undangan-kominfo.png)
